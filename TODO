@@ -1,11 +1,13 @@
 1. open the `crappy_script.R`
 2. Change the name of the function to something more meaningful
 3. Add some comments to the function to describe what it does
+  - You may use roxygen2 syntax (https://roxygen2.r-lib.org/articles/rd.html), but you don't have to
 4. Run the function to check that it works
 5. Save the file
 6. Open the source control extension (found in the left sidebar of Positron) and commit your changes with a relevant message (briefly describe the changes you have made)
 7. Add a readme file to the repository that describes what the function does and how to use it
   - create a new file called `README.md` in the folder alongside `crappy_script.R`
+  You may use markdown formatting (some basics: https://www.markdownguide.org/cheat-sheet/), but you don't have to.
 8. Commit your changes
 
 Congartulations! You have successfully improved and documented a script in your repository and all changes have been changeed!
